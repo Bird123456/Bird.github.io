@@ -1,6 +1,6 @@
 ## Welcome to My GitHub
 
-<table border="0" background="xm1_120.png" align="center">
+<table border="0" background="xy_zs.jpg" align="center">
   <tr>
     <td width="75%">
       <h1>夏铭</h1>
