@@ -26,18 +26,37 @@
 <table align="center" border="0">
   <tr>
     <td>
-      <img src="images/南山一棵树1.jpg" width="100%" height="100%">
+      <img src="images/南山一棵树1.jpg" width="100%" alt="南山一棵树" height="100">
     </td>
     <td>
-      <img src="images/洪崖洞2.jpg" width="100%" height="100%">
+      <img src="images/洪崖洞2.jpg" width="100%" alt="洪崖洞" height="100">
     </td>
     <td rowspan="2">
-      <img src="images/洪崖洞.jpg" width="100%" height="100%">
+      <img src="images/洪崖洞.jpg" width="100%" alt="洪崖洞" height="200">
     </td>
   </tr>
+  
   <tr>
     <td colspan="2">
-       <img src="images/jlj1.jpg" width="100%" height="100%">
+       <img src="images/jlj1.jpg" width="100%" alt="嘉陵江" height="200">
+    </td>
+  </tr>
+  
+    <tr>
+    <td colspan="2">
+       <img src="images/河北1.jpg" width="100%">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="images/河北2.jpg" width="100%">
+    </td>
+    <td>
+      <img src="images/河北3.jpg" width="100%">
+    </td>
+    <td rowspan="2">
+      <img src="images/hb0.jpg" width="100%">
     </td>
   </tr>
 </table>
