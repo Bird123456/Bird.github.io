@@ -20,9 +20,7 @@
    </tr>
 </table>
 
-<HR style="border:3 double: #987cb9" width="80%" color=#987cb9 SIZE=3>
-
-
+<HR style="border:3 double #987cb9" width="80%" color=#987cb9 SIZE=3>
 
 
 
