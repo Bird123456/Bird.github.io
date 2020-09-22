@@ -26,7 +26,7 @@
 <table align="center" border="0">
   <tr>
     <td>
-      <img src="images/南山一棵树.jpg" width="100%">
+      <img src="images/南山一棵树1.jpg" width="100%">
     </td>
     <td>
       <img src="images/洪崖洞2.jpg" width="100%">
