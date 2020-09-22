@@ -38,25 +38,25 @@
   
   <tr>
     <td colspan="2">
-       <img src="images/jlj1.jpg" width="100%" alt="嘉陵江" height="200">
+       <img src="images/jlj1.jpg" width="100%" alt="嘉陵江" height="100">
     </td>
   </tr>
   
   <tr>
     <td colspan="2">
-       <img src="images/河北1.jpg" width="100%">
+       <img src="images/河北1.jpg" width="100%" height="100">
     </td>
     <td rowspan="2">
-      <img src="images/hb0.jpg" width="100%">
+      <img src="images/hb0.jpg" width="100%" height="200">
     </td>
   </tr>
   
   <tr>
     <td>
-      <img src="images/河北2.jpg" width="100%">
+      <img src="images/河北2.jpg" width="100%" height="100">
     </td>
     <td>
-      <img src="images/河北3.jpg" width="100%">
+      <img src="images/河北3.jpg" width="100%" height="100">
     </td>
   </tr>
 </table>
