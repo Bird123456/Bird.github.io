@@ -20,9 +20,22 @@
    </tr>
 </table>
 
-<HR style="border:3 double #987cb9" width="80%" color=#987cb9 SIZE=3>
 
 
+## 美丽重庆&国际河北
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="images/jlj1.jpg" width="100%">
+    </td>
+  </tr>
+  
+</table>
 
+## 
+
+## 
+
+## 
 
 
