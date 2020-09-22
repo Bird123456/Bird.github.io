@@ -1,6 +1,6 @@
 ## Welcome to My GitHub
 
-<table border="0" background="xz_zs.png" align="center">
+<table border="0" bgcolor="LightSkyBlue " align="center">
   <tr>
     <td width="75%">
       <h1>夏铭</h1>
@@ -9,7 +9,7 @@
       <p><b>邮箱：1106573253@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="xm1_70.png" width="100%">
+      <img src="xm1_120.png" width="100%">
     </td>
   </tr>
 </table>
