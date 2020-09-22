@@ -46,6 +46,9 @@
     <td colspan="2">
        <img src="images/河北1.jpg" width="100%">
     </td>
+    <td rowspan="2">
+      <img src="images/hb0.jpg" width="100%">
+    </td>
   </tr>
   
   <tr>
@@ -54,9 +57,6 @@
     </td>
     <td>
       <img src="images/河北3.jpg" width="100%">
-    </td>
-    <td rowspan="2">
-      <img src="images/hb0.jpg" width="100%">
     </td>
   </tr>
 </table>
