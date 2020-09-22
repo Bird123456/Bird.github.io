@@ -10,7 +10,7 @@
     </td>
     </td>
     <td width="25%">
-      <img src="xm1_120.png" width="100%">
+      <img src="xm1_70.png" width="100%">
     </td>
   </tr>
 </table>
