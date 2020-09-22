@@ -42,7 +42,7 @@
     </td>
   </tr>
   
-    <tr>
+  <tr>
     <td colspan="2">
        <img src="images/河北1.jpg" width="100%">
     </td>
