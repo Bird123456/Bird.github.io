@@ -19,8 +19,7 @@
     </td>
    </tr>
 </table>
-
-<a href="https://www.w3school.com.cn/tiy/t.asp?f=html_table_background">博客园</a>
+<HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="80%" color=#987cb9 SIZE=1>
 
 
 
