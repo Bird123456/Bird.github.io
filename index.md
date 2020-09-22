@@ -20,7 +20,7 @@
    </tr>
 </table>
 
-<hr style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#00FFFF,direction:145,strength:15)" width="100%" color=#00FFFF  SIZE=30>
+<hr style="border:5 double #987cb9" width="100%" color=#00FFFF SIZE=10>
 
 
 
