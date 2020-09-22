@@ -22,7 +22,7 @@
 
 
 
-## 美丽重庆&国际河北
+## 美丽重庆&国际庄
 <table align="center" border="0">
   <tr>
     <td>
@@ -44,19 +44,19 @@
   
   <tr>
     <td colspan="2">
-       <img src="images/河北1.jpg" width="100%" height="100">
+       <img src="images/gjz3.jpg" width="100%" height="100">
     </td>
     <td rowspan="2">
-      <img src="images/hb0.jpg" width="100%" height="200">
+      <img src="images/国际庄1.gif" width="100%" height="200">
     </td>
   </tr>
   
   <tr>
     <td>
-      <img src="images/河北2.jpg" width="100%" height="100">
+      <img src="images/gjz4.jpg" width="100%" height="100">
     </td>
     <td>
-      <img src="images/河北3.jpg" width="100%" height="100">
+      <img src="images/gjz.jpg" width="100%" height="100">
     </td>
   </tr>
 </table>
