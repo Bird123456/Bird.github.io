@@ -7,6 +7,7 @@
       <p><b>本科</b></p>
       <p><b>石家庄铁道大学</b></p>
       <p><b>邮箱：1106573253@qq.com</b></p>
+      <p><b>博客：<a href="https://www.cnblogs.com/birdmmxx/" target="_blank">https://www.cnblogs.com/birdmmxx/</a></b></p>
     </td>
     <td width="25%">
       <img src="xm1_120.png" width="100%">
@@ -21,6 +22,7 @@
 </table>
 
 ## <a href="file/夏铭校招.pdf" target="_blank">个人简历</a>
+## 专业技能
 
 
 
